@@ -22,17 +22,14 @@
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;LLM关键字/关键句提取（deepseek r1-8b）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="445" y="300" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7OY8UGT2BC1tz1zHR3g1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7OY8UGT2BC1tz1zHR3g1-5" target="7OY8UGT2BC1tz1zHR3g1-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;知识库向量检索&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7OY8UGT2BC1tz1zHR3g1-8" target="7OY8UGT2BC1tz1zHR3g1-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="300" />
-              <mxPoint x="710" y="300" />
+              <mxPoint x="730" y="310" />
+              <mxPoint x="730" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
