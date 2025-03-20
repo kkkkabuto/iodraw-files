@@ -40,14 +40,11 @@
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7OY8UGT2BC1tz1zHR3g1-11" target="7OY8UGT2BC1tz1zHR3g1-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OY8UGT2BC1tz1zHR3g1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7OY8UGT2BC1tz1zHR3g1-11" target="7OY8UGT2BC1tz1zHR3g1-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-11" value="文本分段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="165" width="100" height="30" as="geometry" />
+          <mxGeometry x="660" y="150" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-13" value="向量化存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="220" width="120" height="30" as="geometry" />
+          <mxGeometry x="650" y="200" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
