@@ -16,11 +16,17 @@
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;问题预处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7OY8UGT2BC1tz1zHR3g1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7OY8UGT2BC1tz1zHR3g1-3" target="7OY8UGT2BC1tz1zHR3g1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;LLM关键字/关键句提取&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;知识库向量检索&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7OY8UGT2BC1tz1zHR3g1-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="220" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
