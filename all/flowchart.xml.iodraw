@@ -67,8 +67,8 @@
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;初步检索结果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OY8UGT2BC1tz1zHR3g1-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="7OY8UGT2BC1tz1zHR3g1-30" value="重排序优化（bge-reranker-v2-m3）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="450" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
