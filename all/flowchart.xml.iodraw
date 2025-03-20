@@ -26,7 +26,7 @@
           <mxGeometry x="680" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="100" width="360" height="120" as="geometry" />
+          <mxGeometry x="440" y="100" width="480" height="120" as="geometry" />
         </mxCell>
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;本地知识库&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="535" y="70" width="90" height="30" as="geometry" />
@@ -37,11 +37,14 @@
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;文档预处理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="120" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7OY8UGT2BC1tz1zHR3g1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7OY8UGT2BC1tz1zHR3g1-11" target="7OY8UGT2BC1tz1zHR3g1-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-11" value="文本分段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="120" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-13" value="向量化存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="707" y="120" width="120" height="30" as="geometry" />
+          <mxGeometry x="670" y="120" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
