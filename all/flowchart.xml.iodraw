@@ -54,6 +54,12 @@
         <mxCell id="7OY8UGT2BC1tz1zHR3g1-13" value="向量化存储（bge-m3离线处理）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="200" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7OY8UGT2BC1tz1zHR3g1-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.333;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7OY8UGT2BC1tz1zHR3g1-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="300" as="sourcePoint" />
+            <mxPoint x="600" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
